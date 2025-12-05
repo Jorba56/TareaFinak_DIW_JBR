@@ -68,7 +68,7 @@ section {
 .tarjeta img {
     width: 100%; /* Ajuste para que la imagen ocupe el ancho de la tarjeta */
     height: 180px;
-    object-fit: cover;
+    object-fit: cover; /*la imagen mantiene su relacion de apecto, pero ocupa todo el contenedor*/
     border-radius: 5px;
 }
 /* Elementos específicos del Index */
